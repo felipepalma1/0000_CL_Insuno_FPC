@@ -1,0 +1,353 @@
+('Insuno.BurpExtender.callbaks', burp.ae4@e431e23)
+('Insuno.BurpExtender.callbacks.getHelpers()', burp.a0d@1d939362)
+('Insuno.Insuno.self', org.python.proxies.__main__$Insuno$1@5b02c09f)
+('Self : ', org.python.proxies.__main__$Insuno$1@5b02c09f)
+p1val
+('Self : ', org.python.proxies.__main__$Insuno$1@5b02c09f)
+p1val
+('Self : ', org.python.proxies.__main__$Insuno$1@5b02c09f)
+p1val
+('Self : ', org.python.proxies.__main__$Insuno$1@5b02c09f)
+p1val
+('Self : ', org.python.proxies.__main__$Insuno$1@5b02c09f)
+p1val
+('Self : ', org.python.proxies.__main__$Insuno$1@5b02c09f)
+p1val
+('Insuno.BurpExtender.callbaks', burp.ae4@29fe8b80)
+('Insuno.BurpExtender.callbacks.getHelpers()', burp.a0d@8b68558)
+('Insuno.Insuno.self', org.python.proxies.__main__$Insuno$1@55b9f128)
+('Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0, ':True')
+('Self : ', org.python.proxies.__main__$Insuno$1@55b9f128)
+p1val
+('Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 1, ':True')
+('Self : ', org.python.proxies.__main__$Insuno$1@55b9f128)
+p1val
+('Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 2, ':True')
+('Self : ', org.python.proxies.__main__$Insuno$1@55b9f128)
+p1val
+('Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 3, ':True')
+('Self : ', org.python.proxies.__main__$Insuno$1@55b9f128)
+p1val
+('Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 4, ':True')
+('Self : ', org.python.proxies.__main__$Insuno$1@55b9f128)
+p1val
+('Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 5, ':True')
+('Self : ', org.python.proxies.__main__$Insuno$1@55b9f128)
+p1val
+('Insuno.BurpExtender.callbaks', burp.ae4@4f5ab760)
+('Insuno.BurpExtender.callbacks.getHelpers()', burp.a0d@35b21e7f)
+('Insuno.Insuno.self', org.python.proxies.__main__$Insuno$1@3b0f755)
+('True \xe2\x86\x92', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+('Self : ', org.python.proxies.__main__$Insuno$1@3b0f755)
+p1val
+('True \xe2\x86\x92', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 1)
+('Self : ', org.python.proxies.__main__$Insuno$1@3b0f755)
+p1val
+('Insuno.BurpExtender.callbaks', burp.ae4@12c389d)
+('Insuno.BurpExtender.callbacks.getHelpers()', burp.a0d@2959eefa)
+('Insuno.Insuno.self', org.python.proxies.__main__$Insuno$1@7bf10ecb)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+('payload ::', 'p1val')
+('Self : ', org.python.proxies.__main__$Insuno$1@7bf10ecb)
+p1val
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 1)
+('payload ::', 'p1val')
+('Self : ', org.python.proxies.__main__$Insuno$1@7bf10ecb)
+p1val
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 2)
+('payload ::', 'p1val')
+('Self : ', org.python.proxies.__main__$Insuno$1@7bf10ecb)
+p1val
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 3)
+('payload ::', 'p1val')
+('Self : ', org.python.proxies.__main__$Insuno$1@7bf10ecb)
+p1val
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 4)
+('payload ::', 'p1val')
+('Self : ', org.python.proxies.__main__$Insuno$1@7bf10ecb)
+p1val
+('Insuno.BurpExtender.callbaks', burp.ae4@45cfef93)
+('Insuno.BurpExtender.callbacks.getHelpers()', burp.a0d@5ce96002)
+('Insuno.Insuno.self', org.python.proxies.__main__$Insuno$1@64f81a92)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+('payload ::', 'p1val')
+Insuno.Insuno.mutate_payload(self, original_payload
+('-- self:: ', org.python.proxies.__main__$Insuno$1@64f81a92)
+('-- original_payload::', 'p1val')
+('-- picker::', 2)
+('-- offset::', 1)
+('mutated payload::', "p<script>alert('BHP!');</script>1val")
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 1)
+('payload ::', 'p1val')
+Insuno.Insuno.mutate_payload(self, original_payload
+('-- self:: ', org.python.proxies.__main__$Insuno$1@64f81a92)
+('-- original_payload::', 'p1val')
+('-- picker::', 2)
+('-- offset::', 3)
+('mutated payload::', "p1v<script>alert('BHP!');</script>al")
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 2)
+('payload ::', 'p1val')
+Insuno.Insuno.mutate_payload(self, original_payload
+('-- self:: ', org.python.proxies.__main__$Insuno$1@64f81a92)
+('-- original_payload::', 'p1val')
+('-- picker::', 2)
+('-- offset::', 0)
+('mutated payload::', "<script>alert('BHP!');</script>p1val")
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 3)
+('payload ::', 'p1val')
+Insuno.Insuno.mutate_payload(self, original_payload
+('-- self:: ', org.python.proxies.__main__$Insuno$1@64f81a92)
+('-- original_payload::', 'p1val')
+('-- picker::', 3)
+('-- offset::', 2)
+('mutated payload::', 'p1p1vaval')
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 4)
+('payload ::', 'p1val')
+Insuno.Insuno.mutate_payload(self, original_payload
+('-- self:: ', org.python.proxies.__main__$Insuno$1@64f81a92)
+('-- original_payload::', 'p1val')
+('-- picker::', 2)
+('-- offset::', 4)
+('mutated payload::', "p1va<script>alert('BHP!');</script>l")
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 5)
+('payload ::', 'p1val')
+Insuno.Insuno.mutate_payload(self, original_payload
+('-- self:: ', org.python.proxies.__main__$Insuno$1@64f81a92)
+('-- original_payload::', 'p1val')
+('-- picker::', 1)
+('-- offset::', 1)
+('mutated payload::', "p'1val")
+('Insuno.Insuno.self', org.python.proxies.__main__$Insuno$1@76854367)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+('payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('-- self:: ', org.python.proxies.__main__$Insuno$1@76854367)
+('-- original_payload::', '')
+('-- picker::', 3)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+('payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('-- self:: ', org.python.proxies.__main__$Insuno$1@76854367)
+('-- original_payload::', '')
+('-- picker::', 1)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+('payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('-- self:: ', org.python.proxies.__main__$Insuno$1@76854367)
+('-- original_payload::', '')
+('-- picker::', 1)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+('payload ::', 'p3val')
+Insuno.Insuno.mutate_payload(self, original_payload
+('-- self:: ', org.python.proxies.__main__$Insuno$1@76854367)
+('-- original_payload::', 'p3val')
+('-- picker::', 1)
+('-- offset::', 3)
+('mutated payload::', "p3v'al")
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 1)
+('payload ::', 'p3val')
+Insuno.Insuno.mutate_payload(self, original_payload
+('-- self:: ', org.python.proxies.__main__$Insuno$1@76854367)
+('-- original_payload::', 'p3val')
+('-- picker::', 2)
+('-- offset::', 3)
+('mutated payload::', "p3v<script>alert('BHP!');</script>al")
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 2)
+('payload ::', 'p3val')
+Insuno.Insuno.mutate_payload(self, original_payload
+('-- self:: ', org.python.proxies.__main__$Insuno$1@76854367)
+('-- original_payload::', 'p3val')
+('-- picker::', 2)
+('-- offset::', 3)
+('mutated payload::', "p3v<script>alert('BHP!');</script>al")
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 3)
+('payload ::', 'p3val')
+Insuno.Insuno.mutate_payload(self, original_payload
+('-- self:: ', org.python.proxies.__main__$Insuno$1@76854367)
+('-- original_payload::', 'p3val')
+('-- picker::', 3)
+('-- offset::', 1)
+('mutated payload::', 'pppppp3val')
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 4)
+('payload ::', 'p3val')
+Insuno.Insuno.mutate_payload(self, original_payload
+('-- self:: ', org.python.proxies.__main__$Insuno$1@76854367)
+('-- original_payload::', 'p3val')
+('-- picker::', 1)
+('-- offset::', 0)
+('mutated payload::', "'p3val")
+('Insuno.BurpExtender.callbaks', burp.ae4@375a5790)
+('Insuno.BurpExtender.callbacks.getHelpers()', burp.a0d@714c1b7f)
+('Insuno.Insuno.self', org.python.proxies.__main__$Insuno$1@6a52bb48)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('\t--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('\t-- self:: ', org.python.proxies.__main__$Insuno$1@6a52bb48)
+('\t-- original_payload::', '')
+('\t-- picker::', 2)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('\t--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('\t-- self:: ', org.python.proxies.__main__$Insuno$1@6a52bb48)
+('\t-- original_payload::', '')
+('\t-- picker::', 2)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('\t--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('\t-- self:: ', org.python.proxies.__main__$Insuno$1@6a52bb48)
+('\t-- original_payload::', '')
+('\t-- picker::', 2)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('\t--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('\t-- self:: ', org.python.proxies.__main__$Insuno$1@6a52bb48)
+('\t-- original_payload::', '')
+('\t-- picker::', 3)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('\t--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('\t-- self:: ', org.python.proxies.__main__$Insuno$1@6a52bb48)
+('\t-- original_payload::', '')
+('\t-- picker::', 1)
+('Insuno.BurpExtender.callbaks', burp.ae4@70aa014c)
+('Insuno.BurpExtender.callbacks.getHelpers()', burp.a0d@1061557b)
+('Insuno.Insuno.self', org.python.proxies.__main__$Insuno$1@66ad5d0c)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('%*s--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('%*s-- self:: ', org.python.proxies.__main__$Insuno$1@66ad5d0c)
+('%*s-- original_payload::', '')
+('%*s-- picker::', 3)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('%*s--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('%*s-- self:: ', org.python.proxies.__main__$Insuno$1@66ad5d0c)
+('%*s-- original_payload::', '')
+('%*s-- picker::', 2)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('%*s--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('%*s-- self:: ', org.python.proxies.__main__$Insuno$1@66ad5d0c)
+('%*s-- original_payload::', '')
+('%*s-- picker::', 1)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('%*s--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('%*s-- self:: ', org.python.proxies.__main__$Insuno$1@66ad5d0c)
+('%*s-- original_payload::', '')
+('%*s-- picker::', 3)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('%*s--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('%*s-- self:: ', org.python.proxies.__main__$Insuno$1@66ad5d0c)
+('%*s-- original_payload::', '')
+('%*s-- picker::', 2)
+('Insuno.BurpExtender.callbaks', burp.ae4@4660ffcb)
+('Insuno.BurpExtender.callbacks.getHelpers()', burp.a0d@3e7c1116)
+('Insuno.Insuno.self', org.python.proxies.__main__$Insuno$1@71f363f4)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('\t', '--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('\t', '-- self:: ', org.python.proxies.__main__$Insuno$1@71f363f4)
+('\t', '-- original_payload::', '')
+('\t', '-- picker::', 1)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('\t', '--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('\t', '-- self:: ', org.python.proxies.__main__$Insuno$1@71f363f4)
+('\t', '-- original_payload::', '')
+('\t', '-- picker::', 2)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('\t', '--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('\t', '-- self:: ', org.python.proxies.__main__$Insuno$1@71f363f4)
+('\t', '-- original_payload::', '')
+('\t', '-- picker::', 3)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('\t', '--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('\t', '-- self:: ', org.python.proxies.__main__$Insuno$1@71f363f4)
+('\t', '-- original_payload::', '')
+('\t', '-- picker::', 3)
+('True ::', 'Insuno.Insuno.hasmorepayloads(self).self.num_iterations', 0)
+Insuno.Insuno.getNextPayload(self,current_payload)
+('\t', '--payload ::', '')
+Insuno.Insuno.mutate_payload(self, original_payload
+('\t', '-- self:: ', org.python.proxies.__main__$Insuno$1@71f363f4)
+('\t', '-- original_payload::', '')
+('\t', '-- picker::', 2)
+('Insuno.BurpExtender.callbaks', burp.ae4@3a8b491a)
+('Insuno.BurpExtender.callbacks.getHelpers()', burp.a0d@4d7db8c6)
+('Insuno.Insuno.BurpExtender.registerExtenderCallbaks', org.python.proxies.__main__$BurpExtender$0@492cef3b)
+('Inicializacion clase BurpExtender', '\n')
+('Insuno.Insuno.BurpExtender.registerExtenderCallbaks', org.python.proxies.__main__$BurpExtender$0@74eb90bf, '\n')
+Inicializacion clase BurpExtender
+
+('Insuno.Insuno.BurpExtender.registerExtenderCallbaks', org.python.proxies.__main__$BurpExtender$0@19f97702, '\n')
+Inicializacion clase BurpExtender
+('Insuno.Insuno.BurpExtender.registerExtenderCallbaks', org.python.proxies.__main__$BurpExtender$0@63e8968b)
+
+
+Inicializacion clase BurpExtender
+('Insuno.Insuno.BurpExtender.registerExtenderCallbaks', org.python.proxies.__main__$BurpExtender$0@282981aa)
+
+
+Inicializacion clase BurpExtender
+('Insuno.Insuno.BurpExtender.registerExtenderCallbaks', org.python.proxies.__main__$BurpExtender$0@4643fd27)
+
+
+Inicializacion clase BurpExtender
+('Insuno.Insuno.BurpExtender.registerExtenderCallbaks', org.python.proxies.__main__$BurpExtender$0@3eb7824f)
+
+
+Inicializacion clase BurpExtender
+('Insuno.Insuno.BurpExtender.registerExtenderCallbaks', org.python.proxies.__main__$BurpExtender$0@4388822d)
+
+
+Inicializacion clase BurpExtender
+('Insuno.Insuno.BurpExtender.registerExtenderCallbaks', org.python.proxies.__main__$BurpExtender$0@43c15e13)
+
+
+Inicializacion clase BurpExtender
+('Insuno.Insuno.BurpExtender.registerExtenderCallbaks', org.python.proxies.__main__$BurpExtender$0@1c924d4a)
+
+
+Inicializacion clase BurpExtender
+('Insuno.Insuno.BurpExtender.registerExtenderCallbaks', org.python.proxies.__main__$BurpExtender$0@b606f8)
+
+
+Inicializacion clase BurpExtender
+('Insuno.Insuno.BurpExtender.registerExtenderCallbaks', org.python.proxies.__main__$BurpExtender$0@6b03e1eb)
+
+
+Inicializacion clase BurpExtender
+('Insuno.Insuno.BurpExtender.registerExtenderCallbaks', org.python.proxies.__main__$BurpExtender$0@1918c56b)
+
+
+Creacion nueva instancia Insuno desde Insuno.BurpExtender.
+org.python.proxies.__main__$BurpExtender$0@1918c56b
+
+
+Inicializacion Insuno
+org.python.proxies.__main__$Insuno$1@13997411
+
+
+hasMorePayloads
+getNextPayload
+org.python.proxies.__main__$Insuno$1@13997411
+
+
